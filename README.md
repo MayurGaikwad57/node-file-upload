@@ -12,7 +12,7 @@ Follows MVC structure: controller, routes, model, configuration.
 
 Example API endpoints for file upload and retrieval.
 
-📁 Project Structure
+## 📁 Project Structure
 ├── configuration/      # DB connection, multer config
 ├── controller/         # File upload logic
 ├── model/              # Mongoose schema for file metadata
